@@ -1,3 +1,3 @@
 # git_r
 
-I'm learning Git with Rstudio and github.
+I'm learning Git with Rstudio and github.  
